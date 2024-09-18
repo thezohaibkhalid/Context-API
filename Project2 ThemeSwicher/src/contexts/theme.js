@@ -16,3 +16,9 @@ export const ThemeProvider = ThemeContext.Provider
 export default function useTheme(){
     return useContext(ThemeContext)
 }
+
+
+// Create context
+// Add values
+// Make provider
+// Make useContext(ThemeContext)
